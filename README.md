@@ -1,6 +1,5 @@
 
-<h2><b>Hi, Beginner Developer here.</b></h2>
-
-<hr> 
+<h1 style="color:white;text-alight:center">Hi, Beginner Developer here.</h1>
+ 	
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4468357130735368786770313344777276472f67697068792e676966](https://github.com/francisNP/francisNP/assets/143946373/01a7808c-0b45-404d-b1d4-8c33539c6273)
